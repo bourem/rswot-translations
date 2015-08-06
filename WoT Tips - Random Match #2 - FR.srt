@@ -1,0 +1,132 @@
+1
+0:00:48.000 --> 0:00:54.000
+Salut à vous et bienvenue sur ma première partie commentée
+
+2
+0:00:55.000 --> 0:01:02.000
+J'étais malade pendant les deux dernières semaines, enfin pas "malade", mais j'avais très mal à la gorge
+
+3
+0:01:02.000 --> 0:01:07.000
+Je ne sais pas ce que j'ai attrapé
+
+4
+0:01:07.000 --> 0:01:13.000
+MAIS... Maintenant je vais essayer de faire ce commentaire
+
+5
+0:01:13.000 --> 0:01:21.000
+Sur Rivière de Sable, en T-50-2
+
+6
+0:01:21.000 --> 0:01:31.000
+J'ai tout de suite remarqué qu'il y avait quelques pièces d'artillerie dans la partie, mais j'ai décidé de ne pas aller les chercher
+
+7
+0:01:32.000 --> 0:01:41.000
+parce que j'ai beaucoup plus de valeur en tant que scout, en éclairant les cibles dans les dunes, vous allez voir pourquoi
+
+8
+0:01:41.000 --> 0:02:00.000
+Ce VK2801 cherche la bagarre, mais je suis beaucoup plus mobile que lui, et son canon est peu précis, à moins qu'il ne sache pas viser manuellement comme moi.
+
+9
+0:02:00.000 --> 0:02:18.000
+Je n'utilise jamais la visée automatique, parce que si je suis en mouvement le canon est terriblement imprécis, autant viser moi-même au lieu de laisser l'ordinateur se dire "oh, le tank est de ce côté, alors je vais bêtement tirer dans cette direction"
+
+10
+0:02:18.000 --> 0:02:26.000
+Comme vous pouvez voir je lui tourne autour et mes alliés le tuent, et c'est à peu près tout ce qu'il y a à dire.
+
+
+11
+0:02:26.000 --> 0:02:38.000
+Ensuite je vais spotter les chars qui montent par ici. 
+Ils font souvent ça, donc c'est un bon endroit où aller, si vous voulez jouer au scout sur cette carte.
+
+12
+0:02:38.000  --> 0:02:50.000
+Un Tiger P, je ne peux rien faire contre ça. Il a un blindage de 200 mm à l'avant et mon canon n'a que 118 mm de pénétration.
+
+13
+0:02:50.000 --> 0:03:05.070
+Un Panther en ville, je décide de ne pas le chercher parce que son canon a une grosse cadence de tir. Je vais plutôt combattre ce KV.
+
+14
+0:03:05.070 --> 0:03:13.000
+Mais je n'avais pas vu les deux T34 juste en bas, et je viens de les remarquer, et je suis en train de penser "Oh mon dieu ! Fichons le camp."
+
+15
+0:03:13.000 --> 0:03:26.000
+J'utilise le terrain à mon avantage, je regarde derrière s'ils peuvent me tirer dessus. 
+S'ils avaient pu j'aurais changé de direction, mais ma direction de départ était plutôt bonne
+
+16
+0:03:26.000 --> 0:03:37.000
+Le Panther est toujours en ville, on ne va pas le combattre, à la place on va aider notre T34 contre ce Tiger II.
+En énervant son conducteur à mort
+
+17
+0:03:37.000 --> 0:03:54.230
+en lui tirant en continue dans la tête, pendant qu'il se retourne pour m'attaquer.
+Ce n'est pas un très bon conducteur, mais son nom est flou donc on ne peut pas le reconnaître, donc on peut dire que ce n'est pas un bon conducteur sans offenser personne.
+
+18
+0:03:54.230 --> 0:04:13.500
+Mais il commence à tourner dans l'autre sens et il a un Tiger P en soutien, donc...
+Ouhlà, c'était proche !
+Donc j'ai décidé de me replier, parce que c'est une situation désespéré.
+Vous ne pouvez pas tourner autour de quelqu'un pour le tuer s'il a du support, c'est sans issue.
+
+19
+0:04:13.500 --> 0:04:33.000
+S'ils étaient en mouvement eux aussi, j'aurais pu avoir une chance, mais ce n'était pas le cas.
+S'éloigner du feu ennemi en ligne droite est une très mauvaise idée.
+Mais j'étais focalisé sur ce T-50, donc ...
+
+20
+0:04:33.000 --> 0:04:45.000
+Vous voyez cette accélération ? J'arrive en vitesse quasi maximale, en freinant à peine, et ce T-50 bondit et me distance.
+
+21
+0:04:45.000 --> 0:04:57.000
+C'est fou. L'accélération est incroyable et j'adore le T-50, mais j'ai besoin d'une bonne vitesse max pour m'échapper des situations délicates.
+C'est quelque chose que le T-50 n'a pas.
+
+22
+0:05:00.000 --> 0:05:27.000
+Le Hummel est en haut dans les dunes, comme vous pouvez le voir sur la minimap, mais il meurt,
+je crois qu'il meurt... là ? Ouais. Donc ce n'est plus la priorité. 
+La priorité maintenant c'est d'aller aider mes coéquipiers, le KV-3 et le T34, parce qu'ils sont encerclés.
+
+23
+0:05:27.240 --> 0:05:42.500
+Je vais simplement tourner autour de ce T34, mais la vitesse de rotation  de sa tourelle est très élevée, et il vise en anticipant sur ma position, donc je savais qu'il savait comment se battre contre les scouts
+
+24
+0:05:42.500 --> 0:05:48.000
+Donc il fallait juste que je laisse les autres travailler pour moi.
+
+25
+0:05:48.000 --> 0:06:02.000
+Vous voyez que je mets quelques tirs, mais je ne sais pas où viser, pas dans cette vue. En zoomant je pourrais le toucher de manière satisfaisante.
+
+26
+0:06:02.000 --> 0:06:11.000
+Et LÀ je suis en train de viser, directement sur le char, et pas sur les chenilles ou les endroits courbés
+
+27
+0:06:11.000 --> 0:06:32.000
+Et c'était le dernier char, donc voilà. Écran de fin de partie, avec les stats.
+J'ai eu Tireur de précision et Éclaireur en folâtrant dans les dunes et tirant comme un cinglé. Seulement cinq tirs loupés. Pas mal.
+
+28
+0:06:32.000 --> 0:06:46.000
+J'espère que ce commentaire était bien fait.
+Les Tips videos continueront à donner des conseils en pause sur le thème musical de Jeopardy.
+
+
+29
+0:06:46.000 --> 0:06:50.000
+On verra combien de temps ça va tenir.
+Merci d'avoir regardé cette vidéo !

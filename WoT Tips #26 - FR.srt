@@ -1,0 +1,131 @@
+1
+0:00:02.000 --> 0:00:08.000
+French sub by cendrieR
+
+2
+0:00:14.000 --> 0:00:22.000
+WoT Tips #25 : Side Scrapping
+
+3
+0:00:24.000 --> 0:00:30.500
+Aujourd'hui, un épisode dédié au side scrapping (je ne vois pas trop comment traduire ça en français).
+
+4
+0:00:31.000 --> 0:00:37.500
+Le side scrapping est une technique poussant l'ennemi à tirer dans vos chenilles ou ricocher sur vos flancs, vous laissant riposter sans risque.
+
+5
+0:00:38.000 --> 0:00:46.000
+Quelques mises en situation vont permettre d'en expliquer le principe, puis de montrer une mise en pratique avec de très bons résultats.
+
+6
+0:00:53.000 --> 0:00:57.000
+Situation #1 : side scrapping de T6 contre un T5
+
+7
+0:00:57.500 --> 0:01:05.500
+Sidescrapper (oui, c'est du français en fait) n'est pas très efficace contre les derp guns, obusiers, ou autres obus explosant à l'impact.
+
+8
+0:01:06.000 --> 0:01:10.500
+Mes yeux de joueur expérimenté ont vite remarqués que ce KV-1 n'a pas le derp gun. En avant donc pour le sidescrappage !
+
+9
+0:01:22.000 --> 0:01:26.500
+Petit coup d'oeil depuis le ciel.
+
+10
+0:01:27.000 --> 0:01:34.500
+Le sidescrapping consiste à incliner votre blindage à un angle tellement important par rapport au char adverse, que ses obus ricocheront.
+
+11
+0:01:35.000 --> 0:01:41.000
+Je vais stopper la vidéo, pour montrer à quel point je dois être incliné pour que ce soit vraiment efficace.
+
+12
+0:01:44.500 --> 0:01:50.500
+Mon char n'est pas tellement incliné, ça suffit cependant pour que mes chenilles absorbent le choc.
+
+13
+0:01:51.000 --> 0:01:57.000
+Nous venons d'avoir mon point de vue : regardons celui de notre ennemi.
+
+14
+0:02:01.000 --> 0:02:11.000
+Il peut voir uniquement mon flanc très incliné, exactement ce que je souhaite : les nouveaux joueurs ont tendance à tirer sur tout ce qu'ils voient.
+
+15
+0:02:20.500 --> 0:02:29.000
+Malheureusement ce joueur apprend vite et réussi à taper sur l'avant du char en visant au maximum vers l'avant du chassis.
+
+16
+0:02:29.500 --> 0:02:32.500
+(L'impact est visible juste après.)
+
+17
+0:02:33.000 --> 0:02:34.500
+(Maintenant.)
+
+18
+0:02:35.000 --> 0:02:41.000
+D'un coup d'un seul, me voilà pris à revers par 2 malandrins ! Bon ok, pas vraiment, mais ils n'en restent pas moins dangereux. D'où le point suivant.
+
+19
+0:02:41.500 --> 0:02:48.500
+S'incliner quand on est à découvert ! Même chose qu'avant, en ajoutant une rotation quand on intuite que l'ennemi va tirer.
+
+20
+0:02:49.000 --> 0:02:53.000
+(Fait amusant : l'angling c'est la pêche à la ligne en anglais. Bof...)
+
+21
+0:03:01.000 --> 0:03:06.000
+Tout pareil, en utilisant un bâtiment un peu en retrait.
+
+22
+0:03:10.500 --> 0:03:15.500
+Les chars avec tourelle à l'arrière du chassis sont les meilleurs sidescrappeurs.
+
+23
+0:03:17.500 --> 0:03:20.500
+Mais ça, l'artillerie s'en fiche :p
+
+24
+0:03:24.000 --> 0:03:30.500
+Le danger est de ne pas assez s'incliner, ce que va nous illustrer ce sympatique VK45.02B.
+
+25
+0:03:49.500 --> 0:03:59.500
+(De son point de vue.) Mon tir arrive d'un angle trop faible par rapport à la normale de son flanc. Une petite rotation vers la gauche aurait suffi.
+
+26
+0:04:16.000 --> 0:04:23.500
+Autre point important : on ne s'angle pas avec n'importe qui (...). Vous ne ferez pas ricocher un adversaire d'un tier beaucoup plus haut que vous.
+
+27
+0:04:24.000 --> 0:04:31.000
+C'est le principe du gros canon contre petit blindage. Le KV-1S peut pénètrer les chars quelques tiers plus haut qui ont un faible blindage de flanc.
+
+28
+0:04:31.500 --> 0:04:38.500
+Si vous tombez contre un ISU-152, réfléchissez un peu avant de sidescrapper dans un char de tier égal ou inférieur !
+
+29
+0:04:39.000 --> 0:04:46.000
+Il faudrait un angle dément pour faire ricocher ça.
+
+30
+0:04:56.500 --> 0:05:01.000
+Pour conclure cet épisode, TheUltimateTanker va nous faire une petite démo, en sidescrappant comme un champion.
+
+29
+0:05:11.500 --> 0:05:16.000
+Montrer ses pv est inutile : seuls deux obus vont percer son blindage.
+
+30
+0:06:01.000 --> 0:06:08.000
+Certain se plaindront si je ne parle pas des chars qui font de bons sidescrappeurs une fois tournés à 180° (IS-3, KV-1S, TOGII).
+
+31
+0:06:08.500 --> 0:06:16.500
+Le fait est qu'il est compliqué de manoeuvrer en contrôles inversés. Ne tentez pas avant d'être à l'aise avec le sidescrapping "classique".

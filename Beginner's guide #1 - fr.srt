@@ -1,0 +1,375 @@
+1
+00:00:14,04 --> 00:00:20,497
+Bonjour à tous et bienvenue dans ce premier volet du Guide du Débutant pour World of Tanks.
+Réalisé par moi, HighFlyer15.
+
+2
+00:00:20,927 --> 00:00:24,434
+Nous allons lancer le jeu et passer en revu tout ce qu'il nous propose.
+
+3
+00:00:24,766 --> 00:00:35,041
+Une fois en jeu, la première chose qui vous attend est le tutorial d'entraînement.
+Ce n'est pas vraiment un tuto : il va juste vous balancer en bataille sans vous apprendre quoi que ce soit.
+
+4
+00:00:35,383 --> 00:00:46,790
+Dans ce tuto vous recevrez un M3 Stuart et quelques crédits,
+mais le M3 Stuart n'est pas terrible, et les crédits et xp reçus devront être dépensés sans marge de manoeuvre.
+
+5
+00:00:46,987 --> 00:00:56,934
+Vous devrez tout utiliser pour améliorer les modules d'un char que vous ne souhaitez pas optimiser...
+Mais les premiers chars sont très vite maxés, donc n'hésitez pas : faites ce tutoriel.
+
+6
+00:00:56,934 --> 00:01:08,534
+Et vous pourrez vous arrêter à la "Mission 7 sur 8". Pour passer cette étape vous devrez acheter votre premier char de rang 3 (plus communément "T3" pour "tier 3" en anglais).
+Vous avez beaucoup à apprendre d'ici-là.
+
+7
+00:01:08,794 --> 00:01:11,155
+Quand vous serez arrivés à cette étape 7, vous pourrez regarder la suite de cette vidéo.
+
+8
+00:01:12,149 --> 00:01:17,562
+Ceci dit, même si vous n'avez pas suivi le tutoriel, vous pouvez suivre mon guide à partir de maintenant, alors allons-y.
+
+9
+00:01:17,943 --> 00:01:27,366
+En bas de l'écran vous pouvez voir les chars de votre garage.
+Pour l'instant vous avez les quatre chars par défauts (les T1 de chaque nation).
+Ceux-là resteront gratuits tout le temps, parce que ce sont les chars de départ.
+
+10
+00:01:27,366 --> 00:01:33,689
+Bien sur, vous ne gagnerez pas d'argent en les revendant non plus.
+A moins qu'il ne soient équipés avec des modules, qui eux coûtent des crédits.
+
+11
+00:01:33,689 --> 00:01:43,76
+A mesure de votre progression vous débloquerez des chars, et les emplacements de garage devront être augmentés pour tous les héberger.
+Vous pouvez en acquérir de deux façons:.
+
+12
+00:01:43,755 --> 00:01:56,67
+Soit en possédant un char qui sera bougé dans l'arbre de recherche (je développerai un jour), soit en dépensant des "Golds". Les Golds peuvent être achetés avec de l'argent réel, et possèdent différents usages.
+
+13
+00:01:56,968 --> 00:02:04,16
+Nous verrons cela plus tard.
+En bas à gauche de l'écran vous pouvez filtrer vos chars par nation, classe et rang.
+
+14
+00:02:04,458 --> 00:02:13,51
+A la droite de l'écran vous voyez les caractéristiques du char sélectionné.
+Les éléments qui varient avec les modules équipés sont le nombre de points de structure ("Health Points" ou HP en anglais), la cadence de tir, la pénétration et les dégâts infligés.
+
+15
+00:02:13,513 --> 00:02:23,65
+Ainsi que la puissance de son moteur.
+Quand vous équipez une nouvelle tourelle, les HP augmentent légèrement, et un nouveau canon influera sur la pénétration et les dégats.
+
+16
+00:02:24,145 --> 00:02:32,09
+Ces informations ne prennent pas en compte les équipements installés (un module n'est pas un équipement).
+Par exemple, si vous ajoutez un Fouloir pour améliorer la cadence de tir, l'effet ne sera pas visible sur cet écran.
+
+17
+00:02:32,088 --> 00:02:39,95
+C'est un peu dommage : on ne peut pas apprécier le résultat avant d'être en bataille.
+Seuls les modules seront pris en compte.
+
+18
+00:02:39,954 --> 00:02:42,71
+Jetons un oeil à nos quatre chars.
+
+19
+00:02:42,933 --> 00:02:49,42
+Le Loltractor, le MS-1, le Renault FT, et le T1 Cunningham.
+
+20
+00:02:49,417 --> 00:03:00,27
+Comme dit plus haut, ce sont les quatre T1 disponibles depuis le début. Auparavant (il y a quelques mois) il n'y en avait que trois. Vous avez donc déjà gagné un emplacement !
+
+21
+00:03:00,268 --> 00:03:07,11
+Les emplacements de garage coûtent 300 golds, et 150 lorsqu'ils sont en promotion. On ne va pas cracher sur un emplacement gratuit.
+
+22
+00:03:07,423 --> 00:03:11,86
+Avant toute chose, vous devez faire un choix. Ou plusieurs choix.
+
+23
+00:03:11,861 --> 00:03:20,14
+Vous allez devoir décider dans quelle classe de char vous allez évoluer.
+Léger, médium, lourd, TD (chasseur de char, "Tank Destroyer" en anglais), ou artillerie.
+
+24
+00:03:20,138 --> 00:03:29,83
+Je vais décrire rapidement les spécificités de chaque catégorie, avant que de nous enfoncer plus loin dans l'arbre de recherche et de discuter de chars spécifiques.
+
+25
+00:03:30,093 --> 00:03:44,81
+Tout d'abord, les légers.
+Les plus rapides, au moins à bas tier. Vous volerez sur le champ de bataille, flaquant et attaquant vos adversaires par derrière.
+Vous n'aurez pas de blindage, et n'infligerez pas de gros dégâts.
+
+26
+00:03:44,814 --> 00:03:52,21
+Ce sont les moustiques de World of Tanks.
+Rapides, et mortels si bien utilisés.
+
+27
+00:03:52,099 --> 00:04:02,40
+Ensuite, nous avons les médiums. Plus faible accélération, plus de HP, et de plus gros canons, ils sont parfaits pour lutter en villes et avec leurs collègues de plus forte corpulence.
+
+28
+00:04:02,396 --> 00:04:17,22
+Vous pourrez facilement vous mesurer aux lourds et gagner en un contre un dans certaines situations, mais vos HP seront toujours plus faibles que les leurs, vous devrez donc envoyer beaucoup plus d'obus qu'eux.
+Les médiums sont les hyènes de WoT.
+
+29
+00:04:17,538 --> 00:04:30,51
+Ensuite nous avons les gros garçons, les lourds.
+Très lents, vous n'arriverez pas rapidement au contact.
+En contrepartie, ils ont bien plus de blindage, de pv, et possèdent des canons bien plus puissants.
+
+30
+00:04:30,512 --> 00:04:41,85
+Vous devrez bien anticiper les situations et prendre vos décisions en début de partie, par exemple choisir entre flanquer ou tenir un point spécifique sur la carte.
+Souvent vous ne pourrez pas faire les deux. A moins d'avoir une bonne équipe (ça arrive) qui vous le permette.
+
+31
+00:04:41,846 --> 00:04:51,22
+Les lourds sont les lions sur le champ de bataille, ils ont le dessus sur la plupart de ceux qui croisent leur chemin. Mais même les lions craignent les hyènes, comme dans la vraie vie...
+
+32
+00:04:51,223 --> 00:05:01,22
+Ensuite, nous avons les chasseurs de char. Trs fragile, parfois assez rapide, et surtout ils possèdent des canons TRES puissants. A quelques exceptions près. 
+
+33
+00:05:01,22 --> 00:05:10,20
+Je ne sais pas vraiment à quel animal les comparer, vu qu'ils sont surtout bons à frapper un grand coup avant de disparaître juqu'à ce qu'ils aient rechargé.
+
+34
+00:05:09,576 --> 00:05:20,06
+Et enfin, nous avons l'artillerie. Des combattantes à longue distance, qui peuvent envoyer des obus d'un bout à l'autre de la map, détruisant les plus gros chars en un coup si la chance est de leur côté.
+
+35
+00:05:20,057 --> 00:05:28,67
+Elles sont plutôt lentes, même si quelques spécimens sont rapides, comparons-les à des singes. Des singes qui balancent de la merde sur leurs petits camarades.
+
+36
+00:05:28,668 --> 00:05:39,28
+Parce que c'est un peu ce qu'en pensent les autres joueurs. Tout le monde les hait, pour leur capacité à ruiner votre journée en vous tapant une seule fois...
+Un peu comme si on vous avait balancé de la merde.
+
+37
+00:05:39,693 --> 00:05:48,09
+Maintenant que vous connaissez un peu mieux les rôles de chaque classe, il est temps de vous décider. Maintenant. Comment ? Vous n'y arrivez pas ?
+Hum, je comprends ce que vous ressentez.
+
+38
+00:05:48,088 --> 00:05:55,57
+Il y a quatre nations représentées, analysons-les, cela vous donnera encore une meilleure idée de ce qui vous attend.
+
+39
+00:05:55,498 --> 00:06:02,11
+Avant d'être plus précis, décrivons-les en quelques mots.
+
+40
+00:06:02,111 --> 00:06:14,87
+URSS. Blindage incliné. Ricoche beaucoup. A la fois des chars très rapides et d'autres très lents. Gros dégâts. Rechargement lent. Faible précision et grand temps de visée.
+
+41
+00:06:14,866 --> 00:06:25,33
+Allemagne. Chars traditionnels (premiers à avoir été introduits en jeu). Vitesse correcte. Grande distance de vue. Bonne cadence de tir en regard des dégâts infligés. Haute précision.
+
+42
+00:06:25,328 --> 00:06:38,30
+U.S.A. Gros blindage sur la tourelle. Bonne vitesse sur tous les chars. Les rangs supérieurs (top tiers) ont de plus faibles dégâts, compensés par une cadence élevée. Chasseurs de char à tourelle.
+
+
+43
+00:06:38,296 --> 00:06:57,07
+France. Pas de blindage. Sauf sur quelques rangs inférieurs. Les hauts rangs ont des canons à barillets, boostant leur DPS : ils envoient 6 obus en un peu plus de 12 secondes. Flanquent bien. Quasiment tous sont très rapides.
+
+44
+00:06:56,616 --> 00:07:08,04
+Bien entendu, l'exception confirme la règle pour chacune des nations, je reviendrai dessus dans un épisode futur.
+Avec ce que je vous ai dit, j'espère que vous savez par quoi vous voulez commencer maintenant. Vous pourrez toujours changer d'avis plus tard.
+
+45
+00:07:08,076 --> 00:07:10,92
+Mais commençons avec ce que nous avons sous la main.
+
+46
+00:07:10,915 --> 00:07:19,82
+Pour le moment vous avez 4 morceaux de métal dans lesquels on a coincé un canon. Avant d'appuyer sur le tout-puissant bouton rouge "COMBATTRE !" tout en haut, continuons de regarder notre garage.
+
+47
+00:07:19,819 --> 00:07:32,12
+En haut à droite vous voyez "Acheter premium", "Acheter de l'or", "Echanger de l'or", "Convertir de l'exp".
+Pour le moment, laissez ça de côté, les premiers chars se passent en quelques heures.
+
+48
+00:07:32,121 --> 00:07:38,18
+En-dessous de "Convertir de l'exp" il y a le bouton "Rechercher". Appuyer dessus pour faire apparaître l'arbre de recherche du char.
+
+49
+00:07:38,185 --> 00:07:52,79
+C'est ici que vous améliorez votre char contre de l'expérience. A bas tier ça ne coûte rien, mais certains canons ou moteur pourront nécessiter plus de 60.000 xp !
+Ne vous inquiétez pas de ça tout de suite.
+
+50
+00:07:52,789 --> 00:08:03,27
+Quand vous améliorez un module, comme je viens de le faire avec les chenilles, fermez votre fenêtre de recherche et regardez en dessous de votre char.
+A cet endroit vous pouvez voir les modules équipés.
+
+51
+00:08:03,274 --> 00:08:13,52
+Je viens d'améliorer mes chenilles, je clique donc sur mes chenilles, puis sur celles qui ne sont pas colorées en vert.
+Cela équipera les nouvelles chenilles et le char tournera plus vite.
+
+52
+00:08:13,521 --> 00:08:23,08
+Il faut toujours se rappeler d'équiper les nouveaux modules.
+Si on oublie ça on ne voit pas de différence en jeu et on s'énerve pour rien.
+
+53
+00:08:23,084 --> 00:08:29,70
+Ca m'est déjà arrivé, ce n'est qu'en revenant au garage qu'on se rend compte qu'on a oublié ce satané module...
+
+54
+00:08:29,705 --> 00:08:45,37
+En haut à gauche vous pouvez voir l'équipage. Pour l'instant il est à 50%, et lorsqu'il progresse vers les 100% les caractéristique du char sont améliorées :
+meilleure accélération, cadence de tir, champ de vision, etc.
+
+55
+Quand il atteint 100%, vous pourrez choisir des compétences secondaires, mais ce n'est pas pour toute suite, gardons ça au chaud pour un autre épisode.
+
+56
+00:08:54,819 --> 00:09:06,34
+Juste sous votre char vous voyez "Maintenance" et "Apparence".
+Cliquez sur "Maintenance", et vous tomberez sur cet écran, découpé en 3 sections :
+Réparations, Munitions, Consommables.
+
+57
+00:09:06,341 --> 00:09:17,56
+Cochez "réparer automatiquement" : si votre char est cassé, vous ne pourrez plus le réutiliser avant de l'avoir réparé...
+Plus vous prenez de dégâts en bataille, plus les réparations coûtent cher.
+
+58
+00:09:17,556 --> 00:09:28,97
+Si vous capturez la base adverse et que votre équipe est partie chasser les trois derniers chars adverses, et qu'il ne vous reste plus beaucoup de crédits, alors il vaut mieux continuer de cap pour ne pas payer les réparations.
+
+59
+00:09:28,969 --> 00:09:37,13
+MAIS ceci est valable uniquement dans les rangs faibles ! Quand vous monterez en rang, ne pensez pas à la facture si des joueurs ont besoin de VOTRE aide pour gagner.
+
+60
+00:09:37,13 --> 00:09:43,11
+Ne soyez pas complétement égoïste, jouez avec votre équipe.
+Capiche, soldat ?
+
+61
+00:09:44,276 --> 00:09:55,88
+Les munitions aussi devraient être rachetées automatiquement, si vous ne voulez pas arriver en bataille sans obus. Ca m'est déjà arrivé quelques fois, quelle folie.
+Il y a différents types d'obus.
+
+62
+00:09:55,884 --> 00:10:04,60
+Les AP, Armor Piercing (qui percent le blindage, donc)
+HEAT, High Explosive Anti Tank (qui explosent, donc)
+et enfin les HE, High Explosive(ceux-là explosent aussi).
+
+63
+00:10:04,78 --> 00:10:11,42
+Les HEAT coûtent de l'or, comme vous pouvez le voir. Ils ne servent à rien si vous savez où taper votre adversaire.
+
+64
+00:10:11,42 --> 00:10:22,01
+Ils ont une meilleure pénétration, et rien d'autre, et si vous ne savez vraiment pas où taper, même ces obus golds ricocheront, comme des AP.
+
+65
+00:10:22,014 --> 00:10:29,03
+Un prochain épisode sera consacré à la pénétration sur les chars de votre rang +/-2.
+
+66
+00:10:29,034 --> 00:10:40,93
+Les HE sont à utiliser quand vous ne pouvez pas du tout pénétrer un char. L'obus explosera à l'extérieur, ce qui permettra parfois de blesser des membres d'équipage. Emportez-en toujours une paire avec vous.
+
+67
+00:10:40,93 --> 00:10:55,02
+Et enfin nous avons les consommables. A 3000 crédits pièce, vous ne devriez pas les utiliser à votre niveau, ça ne vous fera gagner aucun crédit. Si vous en utilisez 2 dans une bataille qui vous fera gagner 10.000 crédit, ce qui est assez élevé, 
+
+68
+00:10:55,018 --> 00:11:02,07
+vous devrez débourser 6000 crédits pour les consommables, sans compter les réparations et les munitions, ça commence à revenir cher.
+
+69
+00:11:02,069 --> 00:11:11,83
+Dans un prochain épisode je détaillerai les différents consommables, mais pour l'instant n'en prenez pas : si vous prenez un obus dans le canon vous mourrez surement dans les secondes qui suivront.
+
+70
+00:11:11,827 --> 00:11:19,20
+MAIS dès que vous commencerez à gagner des crédits il faudra y penser.
+
+71
+00:11:19,204 --> 00:11:32,15
+"Apparence" ne sert qu'à pimper votre char contre des crédits ou du gold, seul le gold vous permettant d'acquérir définitivement le camouflage. Je conseillerais de ne pas gâcher de crédits là-dedans mais c'est vous qui voyez.
+
+72
+00:11:32,151 --> 00:11:42,59
+Sous le bouton de maintenance il y a une autre bar avec 3 emplacements d'équipement.
+Vous pouvez voir qu'ils sont TRES chers, mais dans les rangs élevés ils sont indispensables.
+
+73
+00:11:42,588 --> 00:11:51,68
+Surtout le Fouloir, qui n'est pas ici, mais qui sera présent sur les chars suivants.
+Il améliore la cadence de tir de 10%, ce qui est sympatique.
+
+74
+00:11:51,678 --> 00:12:00,32
+Les équipements aussi seront couverts dans un prochain épisode, dans lequel je préciserai sur quel char quel équipement est adapté.
+Laissons cela de côté pour l'instant.
+
+75
+00:12:00,318 --> 00:12:08,86
+Tout en bas vous pouvez voir les Salons, les Contacts, le Chat Général, le chat pour les Compagnies de char, et deux boutons non labellisés sur la droite.
+
+76
+00:12:08,856 --> 00:12:21,08
+Le premier est le bouton d'invitation, qui clignote en orange si quelqu'un souhaite jouer avec vous en platoon ou en compagnie de char. Si vous cliquez dessus vous pourrez accepter l'invit.
+
+77
+00:12:21,079 --> 00:12:32,21
+Le second bouton fait apparaître l'historique de vos batailles de la journée.
+Vous pourrez y voir vos victoires et défaites, ainsi que les crédits et xp gagnés/perdus.
+
+78
+00:12:32,212 --> 00:12:39,81
+Dans les salons de discussions vous trouverez les salons que les autres joueurs ont créés pour parler entre eux. Vous aussi pourrez créer le vôtre.
+
+79
+00:12:39,806 --> 00:12:50,14
+Dans les contacts sont listés tous vos contacts, et vous pouvez en chercher de nouveaux.
+Pour ajouter quelqu'un il suffit d'écrire leur nom, de faire un clic droit sur eux et de les "Ajouter à la liste d'amis".
+
+80
+00:12:50,136 --> 00:12:54,81
+Le Chat Général vous permet de parler à tous les joueurs en ligne.
+
+81
+00:12:54,813 --> 00:13:08,37
+Le salon des compagnies est l'endroit où les gens peuvent rejoindre des compagnies qui ne sont pas "fermées" en double-cliquant dessus. Il faudra choisir un char (vous pouvez changer en cliquant sur "garage" tout en haut, et revenir sur la compa en cliquant sur "Combattre !"), appuyer sur "prêt", et le chef de compa lancera la bataille.
+
+82
+00:13:08,367 --> 00:13:17,73
+C'est tout pour aujourd'hui !
+Dans le prochain épisode nous ferons notre première virée en char, et je vous présenterai l'interface de combat entre autres.
+
+83
+00:13:17,734 --> 00:13:19,98
+Prenez soin de vous, et à la prochaine !

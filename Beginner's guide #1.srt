@@ -1,0 +1,447 @@
+1
+00:00:14,04 --> 00:00:20,497
+Hey guys and welcome to the first episode of Beginners
+ Guide to the World of Tanks.
+Done by me, HighFlyer15
+
+2
+00:00:20,927 --> 00:00:24,434
+Lets load up the game and go through everything the game has to offer.
+
+3
+00:00:24,766 --> 00:00:35,041
+As you get into the game the first thing you'll be met by is a training tutorial.
+It's not really a tutorial
+ at all, since all it does is throw you into your first battle without knowing anything about the game.
+
+4
+00:00:35,383 --> 00:00:46,790
+You can either take the tutorial and receive a M3 Stuart and a few credits for your trouble, but the M3
+ Stuart isn't THAT good and the credits you'll get from the training will all be used to do forced stuff.
+
+5
+00:00:46,987 --> 00:00:56,934
+Like use all your xp on upgrading all modules on a tank, you don't really want to fully
+ upgrade, but the first tanks are easily upgraded, so go right ahead and take the tutorial.
+
+6
+00:00:56,934 --> 00:01:08,534
+And you can like me stop the tutorial at "Mission 7 out of 8", since
+the only thing that'll get you past
+ that mission is if you buy a tier 3
+tank and there's plenty for you to learn inbetween getting that far.
+
+7
+00:01:08,794 --> 00:01:11,155
+When you've done that get back to the video.
+
+8
+00:01:12,149 --> 00:01:17,562
+Even if you didn't take the tutorial, you can still
+ follow the tutorial
+from now on, so lets get going.
+
+9
+00:01:17,943 --> 00:01:27,366
+At the bottom you can see your selection of tanks.
+Right now you have your 4
+ default tanks.
+These are free to buy later on, since these are the starting tanks.
+
+10
+00:01:27,366 --> 00:01:33,689
+You can't get any credits for selling them either, unless
+ you equip them with modules, which will cost credits.
+
+11
+00:01:33,689 --> 00:01:43,76
+As you progress in the game you'll unlock more and more tanks and the slots at the bottom
+ will have to be increased to house them all.
+You can increase your garage by doing two things.
+
+12
+00:01:43,755 --> 00:01:56,67
+Either get a tank that's going to be moved in the future, not something we'll talk about any time soon or by purchasing
+ garage slots with gold. Gold is the real life money currency in the game and gold can be used for several things.
+
+13
+00:01:56,968 --> 00:02:04,16
+We'll get into that later. At the left side of the
+ bottom you can choose different nations, tank class and tier.
+
+14
+00:02:04,458 --> 00:02:13,51
+On the right side of the screen you'll see all the stats for the selected tank.
+The only things that
+ will change here is the amount of HP you have and the rate of fire and penetration.
+
+15
+00:02:13,513 --> 00:02:23,65
+Also engine power.
+As you equip a new turret your HP will increase a little and when
+ you equip a new gun, then the penetration and damage values will change aswell.
+
+16
+00:02:24,145 --> 00:02:32,09
+But the stats will not change, if you add equipment to your tank. For instance, if you
+ add a Gun Rammer to increase your rate of fire, it won't show in the stats.
+
+17
+00:02:32,088 --> 00:02:39,95
+Which is a little misleading, since you won't see anything change,
+before you go into
+ an actual battle. It only changes, when you add a new module.
+
+18
+00:02:39,954 --> 00:02:42,71
+Lets take a look at the first 4 tanks.
+
+19
+00:02:42,933 --> 00:02:49,42
+The Loltractor, the MS-1, the Renault FT and the T1 Cunningham.
+
+20
+00:02:49,417 --> 00:03:00,27
+As you can see you've got all four standard tier 1 tank available to you from the beginning.
+Earlier in
+ the development it was only 3, so you've gained a starting slot, since the arrival of new tanks.
+
+21
+00:03:00,268 --> 00:03:07,11
+Slots are worth 300 gold, 150 on sale, so
+ getting a new free one is
+good thing.
+
+22
+00:03:07,423 --> 00:03:11,86
+Before anything else you're going to have to make a choice. Or choices.
+
+23
+00:03:11,861 --> 00:03:20,14
+You're going to have to decide which class you'll want
+ to aim for.
+Light, medium, heavy, tank destroyer or artillery.
+
+24
+00:03:20,138 --> 00:03:29,83
+I'll give a quick rundown of what each tank will and will not be able to do for you
+ on the battlefield, before we get into the deeper end of the tech trees, speaking about specific tanks.
+
+25
+00:03:30,093 --> 00:03:44,81
+First up, the light tank.
+The fastest of all the classes at the earlier tiers. You'll be able to fly around the battlefield, flank
+ and attack from behind.
+You'll have close to no armor and you won't be able to deal a whole lot of damage either.
+
+26
+00:03:44,814 --> 00:03:52,21
+Think of the light tanks as the mosquito in the animal
+ world of World of Tanks.
+Fast and deadly if used correctly.
+
+27
+00:03:52,099 --> 00:04:02,40
+Next up we have the medium tank. Slower in acceleration, more health points and bigger
+ guns make this class perfect for brawling in cities and with their heavier counterparts.
+
+28
+00:04:02,396 --> 00:04:17,22
+You'll easily be able to take on heavy tanks and win in certain 1v1 situations, but your health points will still be a lot lower,
+ so
+you'll need to land a lot more hits than they need on you.
+The medium tanks are the hyenas in the animal world of WoT.
+
+29
+00:04:17,538 --> 00:04:30,51
+Then we get to the big boys. The heavy tanks.
+These tanks are very slow and will not get you to the party
+ fast.
+Luckily they make up for this by having a lot more armor, health points and a lot more powerful guns.
+
+30
+00:04:30,512 --> 00:04:41,85
+You will have to decide very early in the match if you want to attempt flanking later or if you want to go and hold on spot
+ on the map. Most of the time you won't be able to do both.
+Unless you're on a great team, that allows you to do so.
+
+31
+00:04:41,846 --> 00:04:51,22
+The heavy tanks are the lions on the battle field, since they dominate most of what's on
+ their path, but even the lion fear the hyena, just like in the real world.
+
+32
+00:04:51,223 --> 00:05:01,22
+Then we have the tank destroyers. Very fragile, most of the time very fast and
+ they wield VERY powerful guns most of the time. Except a few ones.
+
+33
+00:05:01,22 --> 00:05:10,20
+I don't really know what to call these in the animal world, since they're
+ mostly good at dealing damage once and then disappearing until they've reloaded.
+
+34
+00:05:09,576 --> 00:05:20,06
+And then we get to the artillery. Long range fighters, who can sit in one end of the map and fire
+ at shell all the way across the map, destroying the most heavy tank in one shell, if they're lucky.
+
+35
+00:05:20,057 --> 00:05:28,67
+Most of the time these are slow moving, but some of them are fast as well,
+ so lets describe them as monkeys. Monkeys who throw poo at the other animals.
+
+36
+00:05:28,668 --> 00:05:39,28
+Because that's what people think of them in the game. Everybody hates them, since they can easily ruin your
+ day by hitting you ONCE.
+And so would getting hit by poo. Your whole day would be ruined.
+
+37
+00:05:39,693 --> 00:05:48,09
+Now that you know what each class is like, it's time for you to
+ decide. Have you decided yet? No? Well I know how you feel.
+
+38
+00:05:48,088 --> 00:05:55,57
+There's 4 nations to pick from, so lets go over each of them as well, which
+ will give you an even better idea of which way you'll want to go.
+
+39
+00:05:55,498 --> 00:06:02,11
+Before going into a deeper detailed view on each of the
+ nations tanks, lets just describe them with a few words.
+
+40
+00:06:02,111 --> 00:06:14,87
+USSR. Sloped tanks. Bounces a lot. Both very slow and fast tanks.
+ Big alpha damage. Slow reload. Low accuracy and long aim time.
+
+41
+00:06:14,866 --> 00:06:25,33
+Germany. Traditional tanks. Decent speed. Has a lot of view range.
+ Good reload compared to the damage output. High accuracy.
+
+42
+00:06:25,328 --> 00:06:38,30
+U.S.A. High armor values on turrets. Decent speed on all tanks. Top tiers
+ focus on lower alpha, but faster reload speed. Turret Tank Destroyers.
+
+
+43
+00:06:38,296 --> 00:06:57,07
+French. No armor whatsoever on any tanks in the entire tech tree. Except for a few low tiers. Higher tiers get magazines in their
+ guns, being able to fire 6 shots in little over 12 seconds. Great flankers. Almost all of them are very very fast.
+
+44
+00:06:56,616 --> 00:07:08,04
+Of course all of these nations have exceptions, which I will cover for you in a later episode.
+With this information
+ I hope that you know which way you want to go for now. You can always change your mind.
+
+45
+00:07:08,076 --> 00:07:10,92
+But lets get back to what you have right now.
+
+46
+00:07:10,915 --> 00:07:19,82
+Right now you have 4 pieces of metal with a gun strapped onto them. Before you
+ press the mighty red BATTLE button up top, lets look around the garage first.
+
+47
+00:07:19,819 --> 00:07:32,12
+Top right you'll see Buy Premium, Get Gold, Exchange Gold and Convert Experience.
+We'll get into these later, since you
+ won't have to use either to get past the first few tiers in a matter of hours.
+
+48
+00:07:32,121 --> 00:07:38,18
+Underneath Convert Experience is the Research button. Click
+ it to bring up your research tree.
+
+49
+00:07:38,185 --> 00:07:52,79
+Here you will be able to pick upgrades for your tank. As you can see these are very cheap at lower tiers, but as you progress through
+ the game these will go all the way up to 60.000 xp to unlock a better gun or engine.
+But don't worry about that for now.
+
+50
+00:07:52,789 --> 00:08:03,27
+When you upgrade a module, like I just upgraded the tracks, close down your Research window
+ and go down beneath your tank. Here you'll see modules which you have equipped already.
+
+51
+00:08:03,274 --> 00:08:13,52
+I just upgraded new tracks, so I'll click on the tracks and click on the new track without
+ the green color.
+This will equip the new tracks and I'll now be able to turn faster.
+
+52
+00:08:13,521 --> 00:08:23,08
+ALWAYS remember to go down here and equip newly researched modules.
+Some people forget and
+ get very angry because they don't feel a difference in the tank.
+
+53
+00:08:23,084 --> 00:08:29,70
+I've done that myself, but then I get back to the garage
+ and realise that I forgot to equip the damn thing.
+
+54
+00:08:29,705 --> 00:08:45,37
+Top left side you'll see your crew.
+Right now you'll see a 50% crew, as they progress towards the 100% all of
+ your stats will change. You'll have faster acceleration, you'll reload faster, you'll have better accuracy, greater view and other stuff.
+
+55
+00:08:45,368 --> 00:08:54,82
+When you reach the 100% mark you'll also get to choose a skill/perk, but that's pretty
+ far off in the future for you, so we'll save that for another episode.
+
+56
+00:08:54,819 --> 00:09:06,34
+Right now underneath your tank you'll see Service and Exterior.
+Click on Service
+ and you'll be met by this screen.
+From the top
+Repairs, Ammunition, Consumables
+
+57
+00:09:06,341 --> 00:09:17,56
+Right now you might as well click on Repair Automaticly, since you won't be able to drive your tank again, unless you repair
+ it. The more damage you take in a battle, the more you'll have to pay when you get back to your garage.
+
+58
+00:09:17,556 --> 00:09:28,97
+So if you're capturing your enemy's base and the rest of the team is hunting the last three tanks and you know
+ you don't have much credit left, just stay in the base and capture it, instead of risking your repair bill.
+
+59
+00:09:28,969 --> 00:09:37,13
+BUT this only counts in the lower tiers. When you get up in the higher tiers,
+ thinking about your repair bill in a battle, where people need YOUR help to win.
+
+60
+00:09:37,13 --> 00:09:43,11
+You should not be selfish enough to think about the credits you
+ might lose, when going to help them out.
+Got that, soldier?
+
+61
+00:09:44,276 --> 00:09:55,88
+Ammunition should also be ticked off at Resupply Automaticly, since you don't want to get into a game without shells
+ to fire. I've done that a few times, silly thing.
+As you can see there are different kinds of shells.
+
+62
+00:09:55,884 --> 00:10:04,60
+There are AP shells, Armor Piercing
+HEAT, High Explosive Anti Tank
+ shells and then there's HE, High Explosive shells.
+
+63
+00:10:04,78 --> 00:10:11,42
+The Heat shells cost you gold as you can see over here. These
+ aren't worth buying if you know where to hit your enemy.
+
+64
+00:10:11,42 --> 00:10:22,01
+They will give you better penetration and nothing else, but if you don't know where you can penetrate
+ your enemy, then those gold shells are going to bounce, just as easy as any AP shell.
+
+65
+00:10:22,014 --> 00:10:29,03
+A later episode will show you where to penetrate
+ any tank at your tier and +2/-2 tiers.
+
+66
+00:10:29,034 --> 00:10:40,93
+HE shells are used, when you can't penetrate a tank normally. The shell will hit your enemy and explode on
+ the outside of the tank, sometimes killing a crew member inside.
+So bring a few of those with you.
+
+67
+00:10:40,93 --> 00:10:55,02
+Then we have Consumables. These are 3000 credits each and you shouldn't put these on low tiers, since you won't earn any credits
+ if you use one or 2 of these in a battle, where you only earn 10.000 credits, that's a high number,
+
+68
+00:10:55,018 --> 00:11:02,07
+but use 2 consumables and you've already used 6.000 credits
+ of those, then come repair bill and ammo cost.
+
+69
+00:11:02,069 --> 00:11:11,83
+In a future episode I'll speak about all of the consumables, but for now, there's no need for you to equip
+ any of them, since if you get hit in the gun, you're highly likely dead within a few seconds.
+
+70
+00:11:11,827 --> 00:11:19,20
+BUT when you seem to have earned a lot of credits, then you can start
+ adding them to any of your tanks, but for now, leave them be.
+
+71
+00:11:19,204 --> 00:11:32,15
+Exterior is just a way to shine up your tank. This will cost credits or gold, but only the gold camos will
+ stay forever. I would advice you to not waste any credits on these, but that's up to you of course.
+
+72
+00:11:32,151 --> 00:11:42,59
+Underneath your Service button there's another bar with 3 equipment slots.
+As you can see, these are
+ VERY expensive, but on the later tiers, you'll want to equip a few of these.
+
+73
+00:11:42,588 --> 00:11:51,68
+Especially the Gun Rammer, which isn't right here, but on future tanks it will be
+ available. This will increase your loading speed by 10%, which is pretty good.
+
+74
+00:11:51,678 --> 00:12:00,32
+The equipment will also be covered in a future episode, where I talk about all of the equipment
+ and for which tank they should be used on. But for now, just forgot about them.
+
+75
+00:12:00,318 --> 00:12:08,86
+All the way at the bottom you'll see Channels, Contacts, General, Tank
+ Companies and to the right there are two nameless buttons.
+
+76
+00:12:08,856 --> 00:12:21,08
+First one with a speechbubble is invites. When someone invites you to a platoon or company battle, a
+ link will pop up asking you to click it. Click it and you'll be in the platoon/company.
+
+77
+00:12:21,079 --> 00:12:32,21
+The other nameless button is your battle history for the games you've played today.
+All of the battle information will be
+ down there and you'll be able to scroll through all the battles and see what you earned in each.
+
+78
+00:12:32,212 --> 00:12:39,81
+In channels you'll find other people who've made channel groups, where they speak
+ to each other. You can create your own channel as well.
+
+79
+00:12:39,806 --> 00:12:50,14
+Contacts houses all your contacts and you can also search for contacts here.
+To add anyone to your contacts,
+ just search for their name and then right click on it and Add to Friend List.
+
+80
+00:12:50,136 --> 00:12:54,81
+General is the general chat and you can speak to anyone online here.
+
+81
+00:12:54,813 --> 00:13:08,37
+Companies is the place where people can join a company, you too by just double clicking on any company that isn't private,
+ then you'll have to pick a tank and press ready, then the company leader will start the battle and you're off.
+
+82
+00:13:08,367 --> 00:13:17,73
+That's it for this episode guys.
+Next episode we'll take our first ride in a tank
+ and I'll show you all of the in-game UI and how everything works.
+
+83
+00:13:17,734 --> 00:13:19,98
+Take care and I'll see you next time!
